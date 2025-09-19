@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
-# Welcome to ○팀
+
+# Welcome to 2팀
+
 
 ## 1️⃣ 팀원 소개
 
@@ -9,7 +11,6 @@
 | **신형은** | 인공지능전공 | 알고리즘, 시스템 프로그래밍, 스타트업 |
 | **원명진** | 인공지능전공 | UX/UI, 모바일 앱, 창업 |
 | **홍준영** | 소프트웨어전공 | 웹 개발, 게임 개발 |
-ㅍ ㅅㅊㄽ6
 
 
 유레카프로젝트 프로젝트 팀 생성을 축하합니다.
