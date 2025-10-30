@@ -91,7 +91,8 @@ Hello, World! Hello, Future!
   - 우리가 그리는 미래 그리고 나
     
 [유레카포스터2팀.pdf](https://github.com/user-attachments/files/23238302/2.pdf)
-<img width="723" height="1024" alt="유레카포스터2팀" src="https://github.com/user-attachments/assets/f94a2e6a-6a38-4a3b-8b93-c5729b879bd4" />
+<img width="4678" height="6623" alt="유레카포스터2팀" src="https://github.com/user-attachments/assets/e163e691-7845-46dc-8ab4-a2b5758b6f39" />
+
 
 
 
