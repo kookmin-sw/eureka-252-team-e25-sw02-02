@@ -89,6 +89,9 @@ Hello, World! Hello, Future!
  	<img width="1024" height="1536" alt="KakaoTalk_20251010_131957676" src="https://github.com/user-attachments/assets/417aa65f-c474-4425-b648-0601e45759e8" />
 
   - 우리가 그리는 미래 그리고 나
+    
+[유레카포스터2팀.pdf](https://github.com/user-attachments/files/23238302/2.pdf)
+
 
 - 각오와 소감 나누기 ✔️  
 
